@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - 💡 I'm a technology professional with 9+ years of experience in critical operations, currently transitioning into Software Development.
 - 🎓 Studying Analysis and Systems Development at FATEC Sorocaba.
-- 🎮 In my spare time, I enjoy automotive restomodding, playing games like Project Zomboid and DOOM, and working on creative storytelling projects.
+- 🎮 In my spare time, I enjoy automotive restomodding, playing games, and working on creative storytelling projects.
 - 💬 Feel free to reach out to talk about tech or opportunities!
 - ✉️ You can contact me at viniciusromerac@gmail.com — I'll do my best to respond as soon as possible.
 - 📄 Take a look at my [LinkedIn](https://www.linkedin.com/in/viniciusromerac/) for more details about my experience.
