@@ -8,7 +8,7 @@
 
 ###
 
-![Banner](./assets/Banner.png)
+![GithubHeader](./assets/GithubHeader.png)
 
 ### 👨🏻‍💻 About me
 
