@@ -15,11 +15,19 @@
 - 💡 I'm a technology professional with 9+ years of experience in critical operations, currently transitioning into Software Development.
 - 🎓 Studying Analysis and Systems Development at FATEC Sorocaba.
 - 🎮 In my spare time, I enjoy automotive restomodding, playing games, watching movies and TV shows, and singing.
-- 💬 Feel free to reach out to talk about tech or opportunities!
-- ✉️ You can contact me at viniciusromerac@gmail.com — I'll do my best to respond as soon as possible.
 - 📄 Take a look at my [Resume](https://drive.google.com/file/d/10LfLlqqYoOwxNjAn_I62fWDflwQT4aPg/view?usp=drive_link) or my [LinkedIn](https://www.linkedin.com/in/viniciusromerac/) for more details about my experience. You can also find my resume in [Portuguese](https://drive.google.com/file/d/1IArzRMRvWXOCaGHDFWn6aFVOAXpv9yJe/view?usp=drive_link).
+Feel free to reach out to talk about technology, software development, or new opportunities.
 
+<p>
+  <a href="https://www.linkedin.com/in/viniciusromerac/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:viniciusromerac@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 ---
+
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
