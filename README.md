@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 - 📄 Take a look at my [Resume](https://drive.google.com/file/d/10LfLlqqYoOwxNjAn_I62fWDflwQT4aPg/view?usp=drive_link) or my [LinkedIn](https://www.linkedin.com/in/viniciusromerac/) for more details about my experience. You can also find my resume in [Portuguese](https://drive.google.com/file/d/1IArzRMRvWXOCaGHDFWn6aFVOAXpv9yJe/view?usp=drive_link).
 
 ---
-
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
@@ -63,13 +62,24 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Microsoft Access"/>
 </p>
 
-**Tools, Design & Workflow**
+**Design & Creativity**
+<p>
+  <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe CC"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/CorelDraw-000000?style=for-the-badge&logo=coreldraw&logoColor=white" alt="Corel Draw"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+</p>
+
+**Tools & Productivity**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe CC"/>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/>
 </p>
 
 ---
