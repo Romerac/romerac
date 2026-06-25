@@ -90,15 +90,15 @@ Here are some ideas to get you started:
   <a href="https://github.com/Romerac/Programacao-Orientada-a-Objetos-Java">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romerac&repo=Programacao-Orientada-a-Objetos-Java&theme=radical&hide_border=true" width="400" alt="Java POO Repo"/>
   </a>
-  <a href="https://github.com/Romerac/Linguagem-de-Programacao-1-C">
+  <a href="https://github.com/Romerac/Linguagem-de-Programacao-2-CSharp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romerac&repo=Linguagem-de-Programacao-2-CSharp&theme=radical&hide_border=true" width="400" alt="C Repo"/>
+  </a>
+    <a href="https://github.com/Romerac/Linguagem-de-Programacao-1-C">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romerac&repo=Linguagem-de-Programacao-1-C&theme=radical&hide_border=true" width="400" alt="C Repo"/>
   </a>
-</p>
-
-### ⚡ GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romerac&theme=radical&hide_border=true" alt="Vinicius's GitHub Streak" />
+  <a href="https://github.com/Romerac/2025-NASA-Space-Apps-Challenge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romerac&repo=2025-NASA-Space-Apps-Challenge&theme=radical&hide_border=true" width="400" alt="C Repo"/>
+  </a>
 </p>
 
 ---
