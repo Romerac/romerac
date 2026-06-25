@@ -8,7 +8,7 @@
 
 ###
 
-# Hi there, I'm Vinicius Romera! 👋
+[![Braydon's GitHub Banner](https://github.com/Romerac/romerac/tree/main/assets/Banner.png)
 
 ### 👨🏻‍💻 About me
 
