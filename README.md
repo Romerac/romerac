@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 ---
 
 ### 🛠️ Tech Stack
