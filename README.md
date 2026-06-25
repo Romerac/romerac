@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ###
 
-# Olá, eu sou o Vinícius Romera! 👋
+# Olá, eu sou o Vinicius Romera! 👋
 
 **Desenvolvedor de Software | Analista de Sistemas**
 
