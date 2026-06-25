@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 # Olá, eu sou o Vinícius Romera! 👋
 
-**Desenvolvedor de Software | Análise de Sistemas | Telecomunicações**
+**Desenvolvedor de Software | Analista de Sistemas**
 
 Profissional de tecnologia com mais de 9 anos de experiência em operações críticas, suporte corporativo e telecomunicações[cite: 1]. Atualmente em transição de carreira para o Desenvolvimento de Software, unindo minha forte capacidade analítica e de resolução de problemas com a engenharia de software[cite: 1]. 
 
