@@ -86,8 +86,6 @@ Here are some ideas to get you started:
 
 ### 💻 Highlighted Repositories
 
-### 💻 Highlighted Repositories
-
 <table border="0">
   <tr>
     <td>
