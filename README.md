@@ -8,7 +8,7 @@
 
 ###
 
-[![Banner](https://github.com/Romerac/romerac/tree/main/assets/Banner.png)
+[![Banner](./assets/Banner.png)
 
 ### 👨🏻‍💻 About me
 
