@@ -38,31 +38,14 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Vinicius Romera! 👋
 
-**Software Developer | Systems Analyst**
+### 👨🏻‍💻 About me
 
-Technology professional with over 5 years of experience in critical operations, corporate technical support, and telecommunications. Currently transitioning into Software Development. Strong problem-solving skills, requirements analysis, and technical documentation drafting. Analytical and proactive profile with fluency in English and quick learning abilities, focused on creating efficient solutions and optimizing processes through automation and software engineering.
-
-### 👨🏻‍💻 About Me & Education
-
-* 🎓 Degree: **Analysis and Systems Development** at FATEC Sorocaba (Expected graduation: 2028.1).
-* 🗣️ Languages: Portuguese (Native), English (Fluent - TOEIC Score: 880), and Spanish (Basic).
-* 🔍 Skills & Focus: Object-Oriented Programming (Java, C#), Data Modeling, ER Diagrams, Data Structures, and Programming Logic.
-
----
-
-### 🚀 Highlighted Projects
-
-* 🪐 **NASA Space Apps Challenge 2025:** Created an interactive digital comic book for teaching astronomy and solar cycles, aimed at children[cite: 1]. Applied rapid prototyping and interface design[cite: 1].
-* ♻️ **1st Receita Federal (Brazilian Federal Revenue) Hackathon:** An innovation marathon focused on ESG solutions and environmental impact mitigation[cite: 1]. Responsible for the ideation and prototyping of a solution for the ecological and sustainable disposal of electronic cigarettes (vapes)[cite: 1].
-* 🖥️ **Project Bem-Te-Vi (Receita Federal & FATEC):** Performed reverse logistics and hardware decharacterization in partnership with the Brazilian Federal Revenue Service[cite: 1]. Screened and repurposed equipment for digital inclusion projects in partnership with numerous NGOs and local city halls[cite: 1].
-* 🚗 **XXXII FATEC Technology Week (SETEC 2025):** Participated in the organizing committee, assisting with logistical planning[cite: 1]. Managed event space and facilitated technology exhibitions, including the Mustang Mach-E electric vehicle in partnership with Ford Motor Company[cite: 1].
-
----
-
-### 💼 Professional Experience
-
-* **M.L.S. Telecom | Telecommunications Analyst** *(Aug 2019 - May 2026)*: Executed radio frequency measurements and data manipulation, ensuring signal quality. Drafted and reviewed specialized technical reports for public safety fleet vehicles and industry companies. Developed automated spreadsheets and real-time monitoring models, optimizing time spent on demands by over 50%. Implemented, maintained, and structured cloud repositories for the secure storage of sensitive data.
-* **Eduzz | Support Analyst (Junior to VIP)** *(2017 - 2019)*: Managed and resolved support tickets for strategic clients, averaging 700+ emails answered monthly + chats. Created documentation and reported systemic bugs in collaboration with the product and engineering teams. Managed the knowledge base (FAQ) and moderated content, reducing recurring tickets.
+💡 I'm a technology professional with 9+ years of experience in critical operations, currently transitioning into Software Engineering with a focus on Back-end development and Database Modeling.
+🎓 Studying Analysis and Systems Development at FATEC Sorocaba.
+🎮 In my spare time, I enjoy automotive restomodding, playing games like Project Zomboid and DOOM, and working on creative storytelling projects.
+💬 Feel free to reach out to talk about tech or opportunities!
+✉️ You can contact me at viniciusromerac@gmail.com — I'll do my best to respond as soon as possible.
+📄 Take a look at my [LinkedIn](https://www.linkedin.com/in/viniciusromerac/) for more details about my experience.
 
 ---
 
