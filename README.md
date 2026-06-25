@@ -86,18 +86,20 @@ Here are some ideas to get you started:
 
 ### 💻 Highlighted Repositories
 
-* ☕ **[Object-Oriented Programming — Java](https://github.com/Romerac/Programacao-Orientada-a-Objetos-Java)**
-  *Development of structured solutions utilizing encapsulation, inheritance, and polymorphism. Focus on modularity and Java Swing GUIs.*
-
-* 🔷 **[Programming Language II — C# & .NET](https://github.com/Romerac/Linguagem-de-Programacao-2-CSharp)**
-  *Desktop applications and database integration using Windows Forms and MySQL.*
-
-* ⚙️ **[Programming Language I — C](https://github.com/Romerac/Linguagem-de-Programacao-1-C)**
-  *Algorithmic base, flow control, and data structure manipulation.*
-
-* 🪐 **[2025 NASA Space Apps Challenge](https://github.com/Romerac/2025-NASA-Space-Apps-Challenge)**
-  *Interactive digital comic book for teaching astronomy and solar cycles to children, applying rapid prototyping and interface design.*
-
+<p align="left">
+  <a href="https://github.com/Romerac/Programacao-Orientada-a-Objetos-Java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romerac&repo=Programacao-Orientada-a-Objetos-Java&theme=radical&hide_border=true" width="400" alt="Java POO Repo"/>
+  </a>
+  <a href="https://github.com/Romerac/Linguagem-de-Programacao-2-CSharp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romerac&repo=Linguagem-de-Programacao-2-CSharp&theme=radical&hide_border=true" width="400" alt="C Repo"/>
+  </a>
+    <a href="https://github.com/Romerac/Linguagem-de-Programacao-1-C">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romerac&repo=Linguagem-de-Programacao-1-C&theme=radical&hide_border=true" width="400" alt="C Repo"/>
+  </a>
+  <a href="https://github.com/Romerac/2025-NASA-Space-Apps-Challenge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romerac&repo=2025-NASA-Space-Apps-Challenge&theme=radical&hide_border=true" width="400" alt="C Repo"/>
+  </a>
+</p>
 ---
 
 ### 📫 Let's Connect!
