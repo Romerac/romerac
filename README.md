@@ -36,42 +36,39 @@ Here are some ideas to get you started:
 
 ###
 
-# Olá, eu sou o Vinicius Romera! 👋
+# Hi there, I'm Vinicius Romera! 👋
 
-**Desenvolvedor de Software | Analista de Sistemas**
+**Software Developer | Systems Analyst**
 
-Profissional de tecnologia com mais de 9 anos de experiência em operações críticas, suporte corporativo e telecomunicações[cite: 1]. Atualmente em transição de carreira para o Desenvolvimento de Software, unindo minha forte capacidade analítica e de resolução de problemas com a engenharia de software[cite: 1]. 
+Technology professional with over 5 years of experience in critical operations, corporate technical support, and telecommunications. Currently transitioning into Software Development. Strong problem-solving skills, requirements analysis, and technical documentation drafting. Analytical and proactive profile with fluency in English and quick learning abilities, focused on creating efficient solutions and optimizing processes through automation and software engineering.
 
-Tenho foco na criação de soluções eficientes, otimização de processos através de automação e elaboração de documentações técnicas[cite: 1]. Sou um profissional proativo, de aprendizado rápido e possuo **Inglês Fluente (TOEIC Score: 880)**[cite: 1].
+### 👨🏻‍💻 About Me & Education
 
-### 👨🏻‍💻 Sobre Mim & Formação
-
-* 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** pela FATEC Sorocaba (Previsão: 2028.1)[cite: 1].
-* 🗣️ Idiomas: Português (Nativo), Inglês (Fluente) e Espanhol (Básico)[cite: 1].
-* 🔍 Áreas de interesse: Modelagem de Dados, Programação Orientada a Objetos, Estruturas de Dados e Segurança da Informação[cite: 1].
+* 🎓 Degree: **Analysis and Systems Development** at FATEC Sorocaba (Expected graduation: 2028.1).
+* 🗣️ Languages: Portuguese (Native), English (Fluent - TOEIC Score: 880), and Spanish (Basic).
+* 🔍 Skills & Focus: Object-Oriented Programming (Java, C#), Data Modeling, ER Diagrams, Data Structures, and Programming Logic.
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Highlighted Projects
 
-* 🪐 **NASA Space Apps Challenge 2025:** Criação de uma história em quadrinhos digital interativa focada no ensino de astronomia e ciclos solares para crianças, aplicando prototipagem rápida e design de interface[cite: 1].
-* ♻️ **1º Hackathon da Receita Federal:** Maratona de inovação voltada a soluções ESG. Fui responsável pela ideação e prototipagem de uma solução focada no descarte ecológico e sustentável de cigarros eletrônicos (vapes)[cite: 1].
-* 🖥️ **Projeto Bem-Te-Vi (Receita Federal & FATEC):** Atuação direta na logística reversa e descaracterização de hardware. Realizei triagem e reaproveitamento de equipamentos para projetos de inclusão digital em parceria com diversas ONGs e prefeituras[cite: 1].
-* ☕ **Arquitetura e Desenvolvimento em Java:** Desenvolvimento de soluções estruturadas com encapsulamento, herança e polimorfismo[cite: 1]. Modelação de relacionamentos entre classes com foco em modularidade, reuso de código e construção de GUIs robustas com Java Swing[cite: 1].
-* 🚗 **XXXII SETEC (FATEC):** Participação no comitê organizador, prestando auxílio no planejamento logístico, gerenciamento do espaço do evento e facilitação de exposições tecnológicas, incluindo o veículo elétrico Mustang Mach-E em parceria com a Ford Motor Company[cite: 1].
-
----
-
-### 💼 Experiência Profissional
-
-* **M.L.S. Telecom | Analista de Telecomunicações** *(Ago 2019 - Mai 2026)*: Elaboração de relatórios técnicos especializados para frotas de segurança pública e empresas do setor[cite: 1]. Desenvolvi planilhas automatizadas e modelos de monitoramento em tempo real, otimizando o tempo gasto nas demandas em mais de 50%, além de estruturar e manter repositórios em nuvem para armazenamento seguro de dados sensíveis[cite: 1].
-* **Eduzz | Analista de Suporte (Júnior a VIP)** *(2017 - 2019)*: Gerenciamento e resolução de tickets de suporte para clientes estratégicos (média de 700+ e-mails e chats respondidos mensalmente)[cite: 1]. Atuei na criação de documentação, reporte de bugs sistêmicos junto às equipes de produto/engenharia e moderação da base de conhecimento (FAQ), reduzindo a reincidência de tickets[cite: 1].
+* 🪐 **NASA Space Apps Challenge 2025:** Created an interactive digital comic book for teaching astronomy and solar cycles, aimed at children[cite: 1]. Applied rapid prototyping and interface design[cite: 1].
+* ♻️ **1st Receita Federal (Brazilian Federal Revenue) Hackathon:** An innovation marathon focused on ESG solutions and environmental impact mitigation[cite: 1]. Responsible for the ideation and prototyping of a solution for the ecological and sustainable disposal of electronic cigarettes (vapes)[cite: 1].
+* 🖥️ **Project Bem-Te-Vi (Receita Federal & FATEC):** Performed reverse logistics and hardware decharacterization in partnership with the Brazilian Federal Revenue Service[cite: 1]. Screened and repurposed equipment for digital inclusion projects in partnership with numerous NGOs and local city halls[cite: 1].
+* 🚗 **XXXII FATEC Technology Week (SETEC 2025):** Participated in the organizing committee, assisting with logistical planning[cite: 1]. Managed event space and facilitated technology exhibitions, including the Mustang Mach-E electric vehicle in partnership with Ford Motor Company[cite: 1].
 
 ---
 
-### 🛠️ Minhas Tecnologias
+### 💼 Professional Experience
 
-**Linguagens & Frameworks**
+* **M.L.S. Telecom | Telecommunications Analyst** *(Aug 2019 - May 2026)*: Executed radio frequency measurements and data manipulation, ensuring signal quality. Drafted and reviewed specialized technical reports for public safety fleet vehicles and industry companies. Developed automated spreadsheets and real-time monitoring models, optimizing time spent on demands by over 50%. Implemented, maintained, and structured cloud repositories for the secure storage of sensitive data.
+* **Eduzz | Support Analyst (Junior to VIP)** *(2017 - 2019)*: Managed and resolved support tickets for strategic clients, averaging 700+ emails answered monthly + chats. Created documentation and reported systemic bugs in collaboration with the product and engineering teams. Managed the knowledge base (FAQ) and moderated content, reducing recurring tickets.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
@@ -79,7 +76,7 @@ Tenho foco na criação de soluções eficientes, otimização de processos atra
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-**Bancos de Dados, Ferramentas & Design**
+**Tools, Design & Workflow**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI"/>
@@ -88,16 +85,18 @@ Tenho foco na criação de soluções eficientes, otimização de processos atra
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Romerac&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Vinícius" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romerac&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Romerac&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Vinicius's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romerac&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Let's Connect!
+
+Feel free to reach out to talk about technology, software development, or new opportunities.
 
 <p>
   <a href="https://www.linkedin.com/in/viniciusromerac/">
