@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 About me
 
-- 💡 I'm a technology professional with 9+ years of experience in critical operations, currently transitioning into Software Engineering with a focus on Back-end development and Database Modeling.
+- 💡 I'm a technology professional with 9+ years of experience in critical operations, currently transitioning into Software Development.
 - 🎓 Studying Analysis and Systems Development at FATEC Sorocaba.
 - 🎮 In my spare time, I enjoy automotive restomodding, playing games like Project Zomboid and DOOM, and working on creative storytelling projects.
 - 💬 Feel free to reach out to talk about tech or opportunities!
