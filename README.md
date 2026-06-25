@@ -8,7 +8,7 @@
 
 ###
 
-[![Banner](./assets/Banner.png)
+![Banner](./assets/Banner.png)
 
 ### 👨🏻‍💻 About me
 
