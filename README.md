@@ -94,6 +94,13 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romerac&repo=Linguagem-de-Programacao-1-C&theme=radical&hide_border=true" width="400" alt="C Repo"/>
   </a>
 </p>
+
+### ⚡ GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romerac&theme=radical&hide_border=true" alt="Vinicius's GitHub Streak" />
+</p>
+
 ---
 
 ### 📫 Let's Connect!
