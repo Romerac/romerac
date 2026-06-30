@@ -53,15 +53,15 @@
 
 <p align="left">
   <a href="https://github.com/Romerac/Object-Oriented-Programming-Java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romerac&repo=Object-Oriented-Programming-Java&theme=radical&hide_border=true" width="400" alt="Java POO Repo"/>
+    <img src="vercel-readme-stats-cyan.vercel.app/api/pin/?username=Romerac&repo=Object-Oriented-Programming-Java&theme=radical&hide_border=true" width="400" alt="Java POO Repo"/>
   <a href="https://github.com/Romerac/Programming-Language-2-CSharp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romerac&repo=Programming-Language-2-CSharp&theme=radical&hide_border=true&v=1" width="400" alt="C# Repo"/>
+    <img src="vercel-readme-stats-cyan.vercel.app/api/pin/?username=Romerac&repo=Programming-Language-2-CSharp&theme=radical&hide_border=true&v=1" width="400" alt="C# Repo"/>
   </a>
   <a href="https://github.com/Romerac/Programming-Language-1-C">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romerac&repo=Programming-Language-1-C&theme=radical&hide_border=true&v=1" width="400" alt="C Repo"/>
+    <img src="vercel-readme-stats-cyan.vercel.app/api/pin/?username=Romerac&repo=Programming-Language-1-C&theme=radical&hide_border=true&v=1" width="400" alt="C Repo"/>
   </a>
   <a href="https://github.com/Romerac/2025-NASA-Space-Apps-Challenge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romerac&repo=2025-NASA-Space-Apps-Challenge&theme=radical&hide_border=true" width="400" alt="NASA Repo"/>
+    <img src="vercel-readme-stats-cyan.vercel.app/api/pin/?username=Romerac&repo=2025-NASA-Space-Apps-Challenge&theme=radical&hide_border=true" width="400" alt="NASA Repo"/>
   </a>
 </p>
  
