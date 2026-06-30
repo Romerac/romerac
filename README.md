@@ -11,6 +11,16 @@
 
 ---
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
@@ -82,12 +92,4 @@ Feel free to reach out to talk about technology, software development, or new op
 </p>
 
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph.svg">
-</picture>
-
-###
