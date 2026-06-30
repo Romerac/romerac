@@ -50,7 +50,15 @@
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
+###
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph-dark.svg?v=2">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph.svg?v=2">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph.svg?v=2">
+</picture>
+
+###
 ### 💻 Highlighted Repositories
 
 <p align="left">
