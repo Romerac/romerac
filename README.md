@@ -2,7 +2,7 @@
 
 ![GithubHeader](./assets/GithubHeader.png)
 
-
+---
 
 ### 👨🏻‍💻 About me
 
