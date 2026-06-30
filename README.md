@@ -3,12 +3,6 @@
 ![GithubHeader](./assets/GithubHeader.png)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph.svg">
-</picture>
-
 
 ### 👨🏻‍💻 About me
 
@@ -18,12 +12,17 @@
 - 📄 Take a look at my [Resume](https://drive.google.com/file/d/10LfLlqqYoOwxNjAn_I62fWDflwQT4aPg/view?usp=drive_link) or my [LinkedIn](https://www.linkedin.com/in/viniciusromerac/) for more details about my experience. You can also find my resume in [Portuguese](https://drive.google.com/file/d/1IArzRMRvWXOCaGHDFWn6aFVOAXpv9yJe/view?usp=drive_link).
 
 
-
-
-
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Romerac/Romerac/output/pacman-contribution-graph.svg">
+</picture>
+###
 
 
 ---
+
 
 ### 🛠️ Tech Stack
 
